@@ -6,10 +6,10 @@ title:  Project Title
 # Permalink your project will reside under on the 96boards.org website.
 # separate your title's words with dashes for SEO purposes.
 permalink: /projects/template-project/
-author: 96Boards
+# author: 96Boards
 
 # Add a description of your project
-#description: Description of your project
+# description: Description of your project
 
 # Add the names of your images which are stored in the sub folders here.
 # The first image is always used in the table at /projects/
@@ -18,7 +18,7 @@ author: 96Boards
 # folder and adjust the following YAML accordingly.
 # High Res 1920 x 1080
 # regenerated on site build
-#image: 
+# image: 
 #    path: /assets/images/projects/share_image.png
 #    list:
 #        - thumb.png
@@ -30,7 +30,7 @@ author: 96Boards
 #    - https://www.facebook.com/96Boards/
 #    - https://www.linkedin.com/company/96boards/
 #    - https://plus.google.com/+96Boards
-3    - https://github.com/96boards
+#    - https://github.com/96boards
 project:
     # Difficulty level for your project <Beginner, Intermediate, Experienced>
     #difficulty_level:
