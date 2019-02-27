@@ -1,11 +1,11 @@
 ---
 # Front Matter
 # Title of your project used for the breadcrumb title and meta title.
-title:  Project Title
+title:  Social Ticker
 
 # Permalink your project will reside under on the 96boards.org website.
 # separate your title's words with dashes for SEO purposes.
-permalink: /projects/template-project/
+permalink: /projects/social-ticker/
 # author: 96Boards
 
 # Add a description of your project
